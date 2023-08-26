@@ -1,8 +1,8 @@
 module.exports = {
-  host:"sql12.freemysqlhosting.net",
-  user:"sql12609326",
-  password:"2QDYae4z5v",
-  dbName:"sql12609326",
+  host:"45.79.120.157",
+  user:"digihali_omega",
+  password:"Omega@7809",
+  dbName:"digihali_digihal_data",
     dialect: "mysql",
   pool: {
     max: 5,
