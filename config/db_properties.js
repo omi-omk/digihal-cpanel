@@ -1,8 +1,8 @@
 module.exports = {
-  host:"45.79.120.157",
-  user:"digihali_omega",
+  host:"127.0.0.1",
+  user:"omega",
   password:"Omega@7809",
-  dbName:"digihali_digihal_data",
+  dbName:"digihaldata",
     dialect: "mysql",
   pool: {
     max: 5,
